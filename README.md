@@ -7,5 +7,5 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
 
